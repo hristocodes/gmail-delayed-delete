@@ -1,4 +1,4 @@
 gmail-purge
 ===========
 
-A Google Apps script deleting expired messages.
+Google Apps script for Gmail to automatically delete expired messages.
