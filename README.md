@@ -3,7 +3,7 @@ A simple script to delete tagged email later
 
 tl;dr
 -----
-Helps you get rid of emails you don't need to keep, but might want to give a second look in the near future.
+Helps you get rid of emails you don't need to keep, but might want to give a second look.
 
 More
 ----
